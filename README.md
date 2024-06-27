@@ -1,4 +1,5 @@
-#Part of 50 Projects 50 days challenge
+# 50Projects-landing-page
+Part of 50 Projects 50 days challenge
 
 Scroll animation, when the user start scrolling and parts of the site, sections of the website start to come in.
 When scrolling down the content blocks will come in from the left, and from the right alternating. 
